@@ -1,0 +1,10 @@
+/***********************************************************************
+* Program:
+*    Lab RPSPserver, RPSP Rock/Paper/Scissors Protocol - Server Code
+*    Brother Jones, CS 460
+* Author:
+*    Your Name
+* Summary:
+*    Descriptive text ...
+************************************************************************/
+

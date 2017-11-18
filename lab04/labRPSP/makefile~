@@ -1,0 +1,3 @@
+all:
+	g++ rps_server.cpp -o server
+	g++ rps_client.cpp -o client
